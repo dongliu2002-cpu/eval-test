@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HSK Chinese Level Test",
+  "description": "An interactive quiz to evaluate your Chinese vocabulary proficiency based on the HSK levels. The application uses AI to generate 30 multiple-choice questions to provide an estimated HSK level.",
+  "requestFramePermissions": []
+}
